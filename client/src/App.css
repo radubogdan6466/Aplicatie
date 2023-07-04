@@ -1,0 +1,24 @@
+.App {
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+.ResponsiveDrawer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 250px;
+  z-index: 100;
+}
+
+.MainContent {
+  margin-left: 200px;
+}
